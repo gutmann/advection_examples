@@ -11,7 +11,7 @@ DESCRIPTION
 
 EXAMPLES
 
-    advect_example.py -a upwind --step -n 100 -t 1000 -u 0.25 --plot
+    advect_example.py -a upwind -f step -n 100 -t 1000 -u 0.25 --plot
 
 AUTHOR
 
